@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXAgy0DrAnisWO467FmaKuItSQq2GsaTGItHWLICYl1pdDZJnFlpwds0Wb+BL4UcTmYDoHYpAcx8FrIcFQd1xQ==",
+  "success": true,
+  "projectFilePath": "Y:\\programing projects\\loaderApp\\loaderApp\\loaderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esquire\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.5\\microsoft.netcore.app.runtime.win-x86.6.0.5.nupkg.sha512",
+    "C:\\Users\\Esquire\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.5.nupkg.sha512",
+    "C:\\Users\\Esquire\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.5\\microsoft.aspnetcore.app.runtime.win-x86.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

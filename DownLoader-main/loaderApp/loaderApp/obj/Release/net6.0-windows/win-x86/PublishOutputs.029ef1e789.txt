@@ -1,0 +1,7 @@
+Y:\soft\loaderApp.pdb
+Y:\soft\D3DCompiler_47_cor3.dll
+Y:\soft\PenImc_cor3.dll
+Y:\soft\PresentationNative_cor3.dll
+Y:\soft\vcruntime140_cor3.dll
+Y:\soft\wpfgfx_cor3.dll
+Y:\soft\loaderApp.exe

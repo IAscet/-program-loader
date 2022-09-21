@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="After.png" />
+    <None Remove="Filmora.png" />
+    <None Remove="fire.png" />
+    <None Remove="fl.png" />
+    <None Remove="fox.png" />
+    <None Remove="github.png" />
+    <None Remove="ila.png" />
+    <None Remove="light.png" />
+    <None Remove="photoshop.png" />
+    <None Remove="prem.png" />
+    <None Remove="py.png" />
+    <None Remove="share.png" />
+    <None Remove="spot.png" />
+    <None Remove="steam.jpg" />
+    <None Remove="steam.png" />
+    <None Remove="telegram.png" />
+    <None Remove="Vegas.png" />
+    <None Remove="Vs.png" />
+    <None Remove="vscode.png" />
+    <None Remove="zip.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+ 
+  
+
+    <Resource Include="fox.png" />
+ 
+  
+
+    <Resource Include="github.png" />
+ 
+  
+
+    <Resource Include="py.png" />
+
+
+
+    <Resource Include="share.png" />
+    <Resource Include="spot.png" />
+    <Resource Include="steam.png" />
+    <Resource Include="telegram.png" />
+    <Resource Include="Vs.png" />
+    <Resource Include="vscode.png" />
+    <Resource Include="zip.png" />
+  </ItemGroup>
+	
+
+
+
+
+</Project>

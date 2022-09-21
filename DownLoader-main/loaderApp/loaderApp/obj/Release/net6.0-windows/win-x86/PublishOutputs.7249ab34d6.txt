@@ -1,0 +1,7 @@
+C:\Users\Esquire\Desktop\RealiseApp\loaderApp.pdb
+C:\Users\Esquire\Desktop\RealiseApp\D3DCompiler_47_cor3.dll
+C:\Users\Esquire\Desktop\RealiseApp\PenImc_cor3.dll
+C:\Users\Esquire\Desktop\RealiseApp\PresentationNative_cor3.dll
+C:\Users\Esquire\Desktop\RealiseApp\vcruntime140_cor3.dll
+C:\Users\Esquire\Desktop\RealiseApp\wpfgfx_cor3.dll
+C:\Users\Esquire\Desktop\RealiseApp\loaderApp.exe
